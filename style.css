@@ -1,0 +1,66 @@
+@font-face {font-family:dcp;src: url('dcp.ttf');}
+
+*{margin: 0;
+  padding: 0;}
+
+body{
+  font-family: dcp;
+}
+.myself{
+    background-color:black;
+    color:white;
+    text-align:center;
+  }
+  .myself h1{
+    padding: 50px;
+  }
+  .aboutme{
+    padding: 30px 30px 50px 50px;
+    margin-bottom: 140px;
+  }
+  .before_middle {
+    
+  width: 40%;
+  
+  text-align: left;
+  font-size: 20px;
+  padding: 0 70px 0 30px;
+  float: left;
+
+    
+  }
+  .before_middle h2{
+    padding-left: 50px;
+    
+  }
+
+  .before_middle div{
+    
+    padding-bottom: 10px;
+  }
+  .after_middle{
+    text-align: left;
+    margin-left: 60%;
+    
+    font-size: 20px;
+  }
+  .after_middle div{
+    
+    padding-bottom: 10px;
+  }
+  .contacts{
+    font-size:20px;
+    text-align: center;
+  }
+  .contacts h2{
+    padding-bottom: 30px;
+  }
+  
+  .contacts span{
+    padding: 0 5% 0 5%;
+  }
+  
+
+
+  
+  
